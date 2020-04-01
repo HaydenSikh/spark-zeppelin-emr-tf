@@ -1,0 +1,4 @@
+# Ignore terraform cache of external modules
+/.terraform/
+*.tfstate
+*.tfstate.backup
